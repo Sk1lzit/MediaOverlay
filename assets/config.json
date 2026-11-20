@@ -1,0 +1,41 @@
+{
+  "overlay": {
+    "width": 388,
+    "height": 150,
+    "position": "top-right",
+    "bg_color": [
+      0,
+      0,
+      127,
+      255
+    ],
+    "border_color": [
+      61,
+      23,
+      127,
+      255
+    ],
+    "border_color_1": [
+      14,
+      146,
+      246,
+      255
+    ],
+    "border_color_2": [
+      49,
+      51,
+      120,
+      255
+    ],
+    "border_width": 2,
+    "border_radius": 27,
+    "border_mode": "gradient",
+    "border_rgb_speed": 2.1,
+    "bg_image": "C:/Users/user/Downloads/video_cd43712cdb79.mp4",
+    "bg_image_opacity": 0.38,
+    "title_color": "#ffffff",
+    "artist_color": "#aaaaaa",
+    "title_size": 15,
+    "artist_size": 12
+  }
+}
